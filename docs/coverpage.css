@@ -1,0 +1,113 @@
+.main-layout-index-container {
+  background-color: #fff;
+  opacity: 0.95;
+  font-size: 12px;
+  position: relative;
+  text-align: center;
+  color: #fefefe;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("./_media/bg.jpg");
+}
+
+.main-layout-avatar {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+
+.main-layout-line {
+  margin: 20px 0;
+}
+
+.line-container {
+  display: flex;
+  justify-content: center;
+}
+
+.line-style {
+  background-color: #4b4f65;
+  height: 1px;
+}
+
+.line-style-width1 {
+  width: 300px;
+}
+
+.line-style-width2 {
+  width: 100px;
+}
+
+.main-layout-index-content-container {
+  color: rgb(43, 37, 37);
+  display: flex;
+  align-items: center;
+  height: 100%;
+  position: relative;
+  padding: 0 60px;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.main-layout-index-content {
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.main-layout-desc {
+  margin: 0 0 5px 0;
+  font-size: 3em;
+  letter-spacing: 4px;
+  /*此属性减少或增加字符之间的间隔*/
+}
+
+.main-layout-motto {
+  color: #4b4f65;
+  font-size: 1.5em;
+}
+
+.main-layout-line {
+  margin: 20px 0;
+}
+
+.main-layout-self-intro,
+.main-layout-self-desc {
+  font-size: 1.2em;
+}
+
+.main-layout-module {
+  margin: 50px 0;
+}
+
+.main-layout-module-name {
+  padding: 10px 20px;
+  border: 2px solid #4b4f65;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.main-layout-module-name:hover {
+  cursor: pointer;
+  background-color: #42b983;
+  color: #fff;
+  border: none;
+}
+
+.cover-blue {
+  /* background-color: #046d78; */
+  opacity: 0.6;
+  z-index: 10;
+}
+
+.main-layout-index-cover {
+  display: block;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
