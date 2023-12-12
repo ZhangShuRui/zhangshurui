@@ -1,6 +1,8 @@
 ### Hi there 👋
 一个在努力搬砖的前端开发，追求工作与生活的平衡。
 
+生活就是一个草台班子。
+
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
